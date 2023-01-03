@@ -6,9 +6,6 @@ body {
   font-family: 'Armata', sans-serif;
 }
 
-input {
-}
-
 table {
   border: 1px solid #ccc;
   padding: 10px;
@@ -20,6 +17,8 @@ table {
   transition: 0.3s;
   border-collapse: collapse;
   margin: 20px;
+  border: 2px solid #4ace38;
+  border-radius: 10rem;
 }
 td,
 th {
@@ -35,7 +34,7 @@ tr:first-child {
 }
 
 .one {
-  background-color: #4ace38;
+  background-color: #4ace387f;
   font-weight: 700;
 }
 
